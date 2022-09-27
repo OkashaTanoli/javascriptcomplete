@@ -1,5 +1,9 @@
 # HERE ARE JAVASCRIPT TASKS AND THE SOLUTIONS ARE IN ABOVE JS FILE
 # 
+# [chapter1.pdf](https://github.com/OkashaTanoli/javascriptcomplete/files/9658970/chapter1.pdf)
+# [chapter2.pdf](https://github.com/OkashaTanoli/javascriptcomplete/files/9658971/chapter2.pdf)
+# [chapter3.pdf](https://github.com/OkashaTanoli/javascriptcomplete/files/9658972/chapter3.pdf)
+# [chapter4.pdf](https://github.com/OkashaTanoli/javascriptcomplete/files/9658975/chapter4.pdf)
 # [chapter5.pdf](https://github.com/OkashaTanoli/javascriptcomplete/files/9658948/chapter5.pdf)
 # [chapters6-9.pdf](https://github.com/OkashaTanoli/javascriptcomplete/files/9658952/chapters6-9.pdf)
 # [chapters9-11.pdf](https://github.com/OkashaTanoli/javascriptcomplete/files/9658954/chapters9-11.pdf)
@@ -14,7 +18,4 @@
 # [chapters43-48.pdf](https://github.com/OkashaTanoli/javascriptcomplete/files/9658966/chapters43-48.pdf)
 # [chapters49-52.pdf](https://github.com/OkashaTanoli/javascriptcomplete/files/9658967/chapters49-52.pdf)
 # [chapters58-67.pdf](https://github.com/OkashaTanoli/javascriptcomplete/files/9658968/chapters58-67.pdf)
-# [chapter1.pdf](https://github.com/OkashaTanoli/javascriptcomplete/files/9658970/chapter1.pdf)
-# [chapter2.pdf](https://github.com/OkashaTanoli/javascriptcomplete/files/9658971/chapter2.pdf)
-# [chapter3.pdf](https://github.com/OkashaTanoli/javascriptcomplete/files/9658972/chapter3.pdf)
-# [chapter4.pdf](https://github.com/OkashaTanoli/javascriptcomplete/files/9658975/chapter4.pdf)
+
